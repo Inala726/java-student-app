@@ -11,16 +11,16 @@ public class RegisterResponseDTO {
     public String message;
     public Long id;
 
-    public RegisterResponseDTO(String message, Long id) {
-        this.message = message;
-        this.id = id;
-    }
+//    public RegisterResponseDTO(String message, Long id) {
+//        this.message = message;
+//        this.id = id;
+//    }
 
-    public String getMessage() {
-        return message;
-    }
-
-    public void setMessage(String message) {
-        this.message = message;
-    }
+//    public String getMessage() {
+//        return message;
+//    }
+//
+//    public void setMessage(String message) {
+//        this.message = message;
+//    }
 }
